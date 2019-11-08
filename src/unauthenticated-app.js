@@ -10,7 +10,7 @@ const UnAuthenticatedApp = () => {
   };
   return (
     <>
-      <h1>Login</h1>
+      <h1>Sign in</h1>
       <form onSubmit={handleSubmit}>
         <input type="submit" value="login" />
       </form>
